@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quero Cinema!</title>
+    <link rel="stylesheet" href="estilo.css">
+    <style>
+        header h1 {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Quero Cinema!</h1>
+        <div>
+            <input type="text" id="caixa-busca" placeholder="Pesquisar filmes...">
+            <button id="botao-busca">Buscar</button>
+        </div>
+    </header>
+
+    <main id="movies-container">
+        <!-- Os filmes serão inseridos aqui pelo JavaScript -->
+    </main>
+
+    <div style="text-align: center; padding: 2rem 0; color: var(--tertiary-color);">
+        <p>Mais filmes serão colocados em breve</p>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-location">Brasil</div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const searchInput = document.getElementById('caixa-busca');
+            const searchButton = document.getElementById('botao-busca');
+            const container = document.getElementById('movies-container');
+             const logo = document.querySelector('header h1');
+            let allMovies = []; // Variável para guardar todos os filmes
+
+            // Função para renderizar (desenhar) os filmes na tela
+            const renderMovies = (moviesToRender) => {
+                container.innerHTML = ''; // Limpa a lista atual de filmes
+
+                if (moviesToRender.length === 0) {
+                    container.innerHTML = '<p style="text-align: center; padding: 2rem;">Nenhum filme encontrado com este termo.</p>';
+                    return;
+                }
+
+                moviesToRender.forEach(movieData => {
+                    const movieElement = document.createElement('article');
+                    movieElement.innerHTML = `
+                        <h2>${movieData.nome}</h2>
+                        <p><strong>Lançamento:</strong> ${movieData.ano}</p>
+                        <p>${movieData.descrição}</p>
+                    `;
+                    container.appendChild(movieElement);
+                });
+            };
+
+            // Função para buscar e filtrar os filmes
+            const handleSearch = () => {
+                const searchTerm = searchInput.value.toLowerCase();
+                const filteredMovies = allMovies.filter(movie => 
+                    movie.nome.toLowerCase().includes(searchTerm)
+                );
+                renderMovies(filteredMovies);
+            };
+
+            // Carrega os filmes do JSON
+            fetch('teste.json')
+                .then(response => response.json())
+                .then(movies => {
+                    allMovies = movies; // Guarda os filmes na variável
+                    renderMovies(allMovies); // Mostra todos os filmes inicialmente
+                })
+                .catch(error => console.error('Erro ao carregar os filmes:', error));
+
+            // Adiciona o evento de clique ao logo para voltar ao início
+            logo.addEventListener('click', () => {
+                searchInput.value = ''; // Limpa o campo de busca
+                renderMovies(allMovies); // Renderiza todos os filmes novamente
+            });
+
+            // Adiciona o evento de clique ao botão de busca
+            searchButton.addEventListener('click', handleSearch);
+            // Adiciona evento para buscar ao pressionar "Enter" no campo de busca
+            searchInput.addEventListener('keyup', (event) => {
+                if (event.key === 'Enter') {
+                    handleSearch();
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+[
+    {
+        "nome": "O poderoso chefão",
+        "ano" : "foi lançado em 24 de março de 1972",
+        "descrição" : "O poderoso chefão é um filme que trata de uma família mafiosa que luta para estabelecer sua supremacia nos Estados Unidos depois da Segunda Guerra Mundial. Uma tentativa de assassinato deixa o chefão Vito Corleone incapacitado e força os filhos Michael e Sonny a assumirem os negócios."
+    },
+        {
+        "nome": "A lista de Schindler",
+        "ano" : "foi lançado em 31 de dezembro de 1993",
+      "descrição": "A inusitada história de Oskar Schindler (Liam Neeson), um sujeito oportunista, sedutor, \"armador\", simpático, comerciante no mercado negro, mas, acima de tudo, um homem que se relacionava muito bem com o regime nazista, tanto que era membro do próprio Partido Nazista (o que não o impediu de ser preso algumas vezes, mas sempre o libertavam rapidamente, em razão dos seus contatos). No entanto, apesar dos seus defeitos, ele amava o ser humano e assim fez o impossível, a ponto de perder a sua fortuna mas conseguir salvar mais de mil judeus dos campos de concentração."
+}, 
+{
+    "nome" : "Um sonho de liberdade",
+    "ano" : "foi lançado em 17 de janeiro de 1995 no Brasil",
+    "descrição" : "Em 1946, Andy Dufresne (Tim Robbins), um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton (Bob Gunton), o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley (Clancy Brown) que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding (Morgan Freeman), um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição."
+},
+{
+    "nome" : "Forrest Gump - O contador de histórias",
+    "ano" : "foi lançado em 7 de dezembro de 1994",
+    "descrição" : "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump (Tom Hanks), um rapaz com QI abaixo da média e boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e Watergate, mas continua pensando no seu amor de infância, Jenny Curran."
+},
+{
+    "nome" : "O Rei leão",
+    "ano" : "Foi lançado em 8 de julho de 1994.",
+    "descrição" : "Clássico da Disney, a animação acompanha Mufasa (voz de James Earl Jones), o Rei Leão, e a rainha Sarabi (voz de Madge Sinclair), apresentando ao reino o herdeiro do trono, Simba (voz de Matthew Broderick). O recém-nascido recebe a bênção do sábio babuíno Rafiki (voz de Robert Guillaume), mas ao crescer é envolvido nas artimanhas de seu tio Scar (voz de Jeremy Irons), o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono."
+},
+{
+    "nome" :"À Espera de um Milagre",
+    "ano" :"Foi lançado em 10 de março de 2000.",
+    "descrição" : "1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que tem John Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso."
+},
+{
+    "nome" : "O Senhor dos Anéis - O Retorno do Rei",
+    "ano" : "Foi lançado em 15 de dezembro de 2003.",
+    "descrição" : "Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel."
+},
+{
+   "nome" : "Batman - O Cavaleiro das Trevas",
+   "ano" : "Foi lançado em 18 de julho de 2008.",
+   "descrição" : "Após dois anos desde o surgimento do Batman (Christian Bale), os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon (Gary Oldman) e do promotor público Harvey Dent (Aaron Eckhart), Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa (Heath Ledger) e o contratam para combater o Homem-morcego."
+},
+{
+    "nome" : "Vingadores: Ultimato",
+    "ano" : "Foi lançado em 25 de abril de 2019.",
+    "descrição" : "Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, o Capitão América/Steve Rogers (Chris Evans) e a Viúva Negra/Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco."
+},
+{
+    "nome" : "Vingadores: Guerra Infinita",
+    "ano" : "Foi lançado em 26 de abril de 2018",
+    "descrição" : "Em Vingadores: Guerra Infinita, Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes."
+},
+{
+    "nome" : "La la land: cantando estações",
+    "ano" : "foi lançado em 19 de janeiro 2017",
+    "descrição" : "Ao chegar em Los Angeles o pianista de jazz Sebastian (Ryan Gosling) conhece a atriz iniciante Mia (Emma Stone) e os dois se apaixonam perdidamente. Em busca de oportunidades para suas carreiras na competitiva cidade, os jovens tentam fazer o relacionamento amoroso dar certo enquanto perseguem fama e sucesso."
+
+},
+{
+    "nome" : "sexta-feira 13",
+    "ano" : "foi lançado em 1 dezembro de 1980",
+    "descrição" : "Em 1958, um casal de adolescentes foge de um acampamento para passar uma noite romântica juntos, mas os dois são perseguidos por um assassino e mortos a facadas. Em 1979, os dirigentes do acampamento Crystal Lake decidem reabrir o local, apesar do trauma que ainda marca a cidade. Quando novos monitores são contratados, eles começam a desaparecer mais uma vez, assassinados brutalmente, um por um."
+},
+{
+    "nome": "A hora do pesadelo",
+    "ano": "foi lançado em 27 de novembro de 1986",
+    "descrição": "A Hora do Pesadelo acompanha um grupo de adolescentes passa a ter pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono."
+},
+{
+    "nome": "Five Nights At Freddy's - O Pesadelo Sem Fim",
+    "ano": "foi lançado em 26 de outubro de 2023",
+    "descrição":"Five Nights At Freddy's - O Pesadelo Sem Fim é a primeira adaptação cinematográfica da famosa franquia homônima de jogos lançada em 2014 e criada por Scott Cawthon. Dirigido por Emma Tammi (Terra Assombrada, Fair Chase), a história se passa em um restaurante familiar tipicamente americano chamado Freddy Fazbear's Pizza, que está atualmente desativado, e acompanha Mike Schmidt (Josh Hutcherson), um jovem que está passando por alguns problemas financeiros. Felizmente, ele vê a resposta para seus problemas ao ser contratado para trabalhar como o vigia noturno da pizzaria. Criado por Henry Emily e William Afton, o lugar costumava ser muito famoso por seus característicos robôs animados, que eram o rosto do local e faziam a festa das crianças durante o dia. Porém, quando o sol se põe e a escuridão da noite chega, um segredo obscuro e mortal é revelado: os bonecos animatrônicos ganham vida, transformando-se em assassinos psicopatas e partindo em uma violenta matança."
+},
+{
+    "nome": "Jurassic Park - Parque dos Dinossauros",
+    "ano": "foi lançado em 13 de junho de 1993 ",
+    "descrição": "Um parque construído por um milionário (Richard Attenborough) tem como habitantes dinossauros diversos, extintos a sessenta e cinco milhões de anos. Isto é possível por ter sido encontrado um inseto fossilizado, que tinha sugado sangue destes dinossauros, de onde pôde-se isolar o DNA, o código químico da vida, e, a partir deste ponto, recriá-los em laboratório. Mas, o que parecia ser um sonho se torna um pesadelo, quando a experiência sai do controle de seus criadores."
+},
+{
+    "nome": "Apertem os Cintos... O Piloto Sumiu",
+    "ano": "foi lançado 26 de dezembro de 1980",
+    "descrição": "O piloto Ted Striker (Robert Hays), ex-combatente de guerra, é forçado a assumir os controles de um avião quando a tripulação sucumbe à comida contaminada. Elaine (Julie Hagerty), sua namorada, tem de ser aeromoça e co-piloto. Juntos, eles vão tentar salvar os passageiros e terminar o voo com sucesso, mas existe um problema: ele é neurótico."
+},
+{
+    "nome": "hotel transilvânia",
+    "ano": "foi lançado em 5 de outubro de 2012",
+    "descrição": "O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula (Adam Sandler), que resolve convidar os amigos para comemorar, ao longo de um fim de semana, o 118º aniversário de sua filha Mavis (Selena Gomez). O que ele não esperava era que Jonathan (Adam Samberg), um humano sem noção, fosse aparecer no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixonasse por Mavis."
+},
+{
+    "nome": "De Volta para o Futuro",
+    "ano": "foi lançado em 25 de dezembro de 1985",
+    "descrição": " Um jovem chamado Marty McFly (Michael J. Fox) aciona acidentalmente uma máquina do tempo construída por um cientista (Christopher Lloyd) em um Delorean, retornando aos anos 50. Lá conhece sua mãe (Lea Thompson), antes ainda do casamento com seu pai, que fica apaixonada por ele. Tal paixão põe em risco sua própria existência, pois alteraria todo o futuro, forçando-o a servir de cupido entre seus pais."
+},
+{
+    "nome": "John Wick - De Volta ao Jogo",
+    "ano": " foi lançado em 27 de novembro de 2014",
+    "descrição": "John Wick (Keanu Reeves) já foi um dos assassinos mais temidos da cidade de Nova York, trabalhando em parceria com a máfia russa. Um dia, ele decide se aposentar, e neste período tem que lidar com a triste morte de sua esposa. Vítima de uma doença grave, ela já previa a sua própria morte, e deu de presente ao marido um cachorro para cuidar em seu período de luto. No entanto, poucos dias após o funeral, o cachorro é morto por ladrões que roubam o seu carro. John Wick parte em busca de vingança contra estes homens que ele já conhecia muito bem, e que roubaram o último símbolo da mulher que ele amava."
+},
+{
+    "nome": "Matrix",
+    "ano": "foi lançado em 21 de maio de 1999 ",
+    "descrição": "Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade."
+},
+{
+    "nome": "Corra Que a Polícia Vem Aí!",
+    "ano": "foi lançado em 2 de dezembro de 1988",
+    "descrição": "Frank Drebin (Leslie Nielsen), um incompetente detetive de polícia, tenta deter um plano para assassinar a Rainha Elizabeth II (Jeannette Charles), da Inglaterra, que está visitando os Estados Unidos. O mentor do plano é o magnata Vincent Ludwig (Ricardo Montalban), que pretende usar um jogador de beisebol submetido a uma lavagem cerebral para executar o atentado."
+}
+]
